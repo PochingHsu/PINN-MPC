@@ -17,6 +17,6 @@ The PINN prediction in testing (MSE of train: 0.0082219969, MSE of test: 0.00270
 
 ![PINN_test](https://github.com/PochingHsu/PINN-MPC/assets/165426535/9d4e5087-3a27-45fa-b994-22b8e1a5b1ce)
 
-The PINN-MPC results (Energy Consumption : 1.3954234467340754 [kWh]):
+The PINN-MPC results (weight number: 0.3, Energy Consumption : 1.3954234467340754 [kWh] compared to baseline : 1.5066666666666668[kW]):
 
 ![MPC](https://github.com/PochingHsu/PINN-MPC/assets/165426535/4a02eb91-9bda-4308-bee2-0f3c0302f2fa)

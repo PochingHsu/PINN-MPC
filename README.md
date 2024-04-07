@@ -16,3 +16,7 @@ The ANN prediction in testing (MSE of train: 0.0077980384, MSE of test: 0.007983
 The PINN prediction in testing (MSE of train: 0.0082219969, MSE of test: 0.0027068360, training time: 48.96461486816406):
 
 ![PINN_test](https://github.com/PochingHsu/PINN-MPC/assets/165426535/9d4e5087-3a27-45fa-b994-22b8e1a5b1ce)
+
+The PINN-MPC results (Energy Consumption : 1.3954234467340754 [kWh]):
+
+![MPC](https://github.com/PochingHsu/PINN-MPC/assets/165426535/4a02eb91-9bda-4308-bee2-0f3c0302f2fa)

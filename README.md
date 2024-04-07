@@ -8,6 +8,7 @@ The code starts with generating data from single zone building model with baseli
 ![basedline](https://github.com/PochingHsu/PINN-MPC/assets/165426535/88845c27-2da0-4cdd-bd3c-92674d718f26)
 
 The data is divided into 70% for training amd 30% for testing.
+
 The ANN prediction in testing (MSE of train: 0.0077980384, MSE of test: 0.0079830755, training time: 23.149399518966675)
 
 ![NN_test](https://github.com/PochingHsu/PINN-MPC/assets/165426535/9117b54e-4dd2-4667-9427-0587c6f4188a)

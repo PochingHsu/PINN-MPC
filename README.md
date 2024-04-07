@@ -3,4 +3,6 @@ In this study, we developed Physics-Informed Neural Network (PINN) model for a s
 
 [1]	D. Soloway and P. J. Haley, “Neural generalized predictive control,” in Proceedings of the 1996 IEEE International Symposium on Intelligent Control, Dearborn, MI, USA: IEEE, 1996, pp. 277–282. doi: 10.1109/ISIC.1996.556214.
 
+The code starts with generating data from single zone building model with baseline on/off control:
+![basedline](https://github.com/PochingHsu/PINN-MPC/assets/165426535/88845c27-2da0-4cdd-bd3c-92674d718f26)
 

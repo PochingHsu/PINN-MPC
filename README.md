@@ -1,4 +1,4 @@
-# PINN Based - Model Predictive Control of Single Zone Building
+# Physics-Informed Neural Networks (PINN) and Model Predictive Control (MPC) for Energy Optimization in Building
 In this study, we developed Physics-Informed Neural Network (PINN) model for a single zone building. The developed model is used as the prediction model in the Model Predictive Controller (MPC). 
 
 For MPC, Neural Generalized Predictive Control (NGPC), which uses Newton-Raphson to optimize the parameters within control horizon, is built from scratch by referring [1]
